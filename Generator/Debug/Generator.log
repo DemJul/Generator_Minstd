@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\happy\desktop\geekbrains_css\github\_generator\generator\generator\source.cpp(123): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\happy\desktop\geekbrains_css\github\_generator\generator\generator\source.cpp(172): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\happy\desktop\geekbrains_css\github\_generator\generator\generator\source.cpp(192): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\happy\desktop\geekbrains_css\github\_generator\generator\generator\source.cpp(246): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\happy\desktop\geekbrains_css\github\_generator\generator\generator\source.cpp(254): warning C4018: <: несоответствие типов со знаком и без знака
+  Generator.vcxproj -> C:\Users\Happy\Desktop\GeekBrains_css\github\_Generator\Generator\Debug\Generator.exe
